@@ -1,1 +1,2 @@
-deneme yazısıdır
+﻿deneme yazısıdır
+deneme 2 yazısıdır
